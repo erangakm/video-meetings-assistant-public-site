@@ -47,6 +47,13 @@ export default function Privacy() {
           shared with any external entity.
       </p>
 
+      <h3>How to Contact Us</h3>
+
+      <p>
+          If you have questions or concerns regarding this privacy policy, or any feedback pertaining to your privacy and the Calendar privacy policy service that you
+          would like us to consider, please email us at <img width="150px" src="https://em-generic-uploads.s3.ap-southeast-2.amazonaws.com/video-meetings-assistant-extension/email-screenshot.png"></img>
+      </p>
+
     </div>
   )
 }

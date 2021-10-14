@@ -5,7 +5,7 @@
 }
 
 @media (min-width: 768px) {
-  img {
+  .main-img {
     width: 40vw
   }
 }
