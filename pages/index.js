@@ -12,7 +12,7 @@ export default function Home() {
           </div>
         </div>
 
-        <p className="text-center">Being late to virtual meetings will be a thing in the past!</p>
+        <p className="text-center">Being late to virtual meetings will be a thing of the past!</p>
 
         <p className="text-center">Welcome to Video Meetings Assistant. VMA will let you select any event with a Google Meet ot Zoom meeting to be scheduled so it will redirect you to the meeting at it's start time.</p>
 
