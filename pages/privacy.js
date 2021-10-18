@@ -35,6 +35,17 @@ export default function Privacy() {
           to keep track of what is scheduled and what is not.
       </p>
 
+      <h3 className="mt-4">Google oAuth scopes</h3>
+      <p>The following oauth scopes are requested from Google:</p>
+
+      <ul>
+          <li>email - Requested because the app will need to display the email address of who is currently logged in. </li>
+          <li>https://www.googleapis.com/auth/calendar.events.readonly - Requested because the app is designed to fetch a list of events that the current logged in user
+              has in Google calendar. It's the app's responsibility to bring up the list of events so that the user can make a desicion whether to automatically join the
+              meeting or not
+          </li>
+      </ul>
+
       <h3>Information deletion policy</h3>
       <p>
           Any information collected and stored by VMA (all listed above) will be discarded upon logging out of the extension. The option to log out is clearly displayed
