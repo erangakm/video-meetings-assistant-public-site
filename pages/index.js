@@ -14,9 +14,9 @@ export default function Home() {
 
         <p className="text-center">Being late to virtual meetings will be a thing of the past!</p>
 
-        <p className="text-center">Welcome to Video Meetings Assistant. VMA will let you select any event with a Google Meet ot Zoom meeting to be scheduled so it will redirect you to the meeting at it's start time.</p>
+        <p className="text-center">Welcome to Video Meetings Assistant. VMA will let you select any event with a Google Meet or Zoom meeting scheduled and it will redirect you to the meeting page at it's start time.</p>
 
-        <p className="text-center">Login with Google Calendar, select event and go back to whatever you were focussing on before. VMA will let you know when it's will take you to the meeting. All you have to do is hit the join button.</p>
+        <p className="text-center">Login with Google Calendar and select the events that you want to attend. VMA takes care of the rest and will alert you at the scheduled meeting time. All you have to do is hit the join button.</p>
 
         <p className="text-center">
           Supercharge your productivity with Video Meetings Assistant.
